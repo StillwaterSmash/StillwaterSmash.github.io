@@ -52,6 +52,12 @@ header a {
     padding: 50px;
 }
 
+@media screen and (min-width: 1300px) {
+    .options {
+        flex-direction: row;
+    }
+}
+
 @media screen and (max-width: 570px) {
     .options a {
         padding: 25px;
