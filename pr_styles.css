@@ -1,0 +1,167 @@
+/* Player Cards */
+.individualPR {
+    padding-top: 5px;
+    padding-bottom: 100px;
+}
+
+.individualPR div {
+    overflow: auto;
+}
+
+.box {
+    color: #fff;
+    background-color: #111;
+    background-image: url("/images/player_cards/profile_bg.jpg");
+    background-blend-mode: darken;
+    background-size: 200% auto;
+    background-position: center center;
+    width: 250px;
+    padding: 60px 0;
+    margin: 0 auto 30px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #000;
+    box-sizing: border-box;
+    font-family: 'Open Sans';
+  }
+  
+  .circle1 {
+    margin: 0 auto;
+    width: 105px;
+    height: 105px;
+    background: #111 no-repeat bottom center;
+    border-radius: 50%;
+    overflow: hidden;
+    text-align: center;
+    background-image: url("/images/player_cards/dopamineSmall.png");
+    margin-bottom: 15px;
+  }
+
+  .circle2 {
+    margin: 0 auto;
+    width: 105px;
+    height: 105px;
+    background: #111 no-repeat bottom center;
+    border-radius: 50%;
+    overflow: hidden;
+    text-align: center;
+    background-image: url("/images/player_cards/dopamineSmall.png");
+    margin-bottom: 15px;
+  }
+
+  .circle3 {
+    margin: 0 auto;
+    width: 105px;
+    height: 105px;
+    background: #111 no-repeat bottom center;
+    border-radius: 50%;
+    overflow: hidden;
+    text-align: center;
+    background-image: url("/images/player_cards/dopamineSmall.png");
+    margin-bottom: 15px;
+  }
+
+  .circle4 {
+    margin: 0 auto;
+    width: 105px;
+    height: 105px;
+    background: #111 no-repeat bottom center;
+    border-radius: 50%;
+    overflow: hidden;
+    text-align: center;
+    background-image: url("/images/player_cards/dopamineSmall.png");
+    margin-bottom: 15px;
+  }
+
+  .circle5 {
+    margin: 0 auto;
+    width: 105px;
+    height: 105px;
+    background: #111 no-repeat bottom center;
+    border-radius: 50%;
+    overflow: hidden;
+    text-align: center;
+    background-image: url("/images/player_cards/dopamineSmall.png");
+    margin-bottom: 15px;
+  }
+
+  .circle6 {
+    margin: 0 auto;
+    width: 105px;
+    height: 105px;
+    background: #111 no-repeat bottom center;
+    border-radius: 50%;
+    overflow: hidden;
+    text-align: center;
+    background-image: url("/images/player_cards/dopamineSmall.png");
+    margin-bottom: 15px;
+  }
+
+  .circle7 {
+    margin: 0 auto;
+    width: 105px;
+    height: 105px;
+    background: #111 no-repeat bottom center;
+    border-radius: 50%;
+    overflow: hidden;
+    text-align: center;
+    background-image: url("/images/player_cards/dopamineSmall.png");
+    margin-bottom: 15px;
+  }
+
+  .circle8 {
+    margin: 0 auto;
+    width: 105px;
+    height: 105px;
+    background: #111 no-repeat bottom center;
+    border-radius: 50%;
+    overflow: hidden;
+    text-align: center;
+    background-image: url("/images/player_cards/dopamineSmall.png");
+    margin-bottom: 15px;
+  }
+
+  .circle9 {
+    margin: 0 auto;
+    width: 105px;
+    height: 105px;
+    background: #111 no-repeat bottom center;
+    border-radius: 50%;
+    overflow: hidden;
+    text-align: center;
+    background-image: url("/images/player_cards/dopamineSmall.png");
+    margin-bottom: 15px;
+  }
+
+  .circle10 {
+    margin: 0 auto;
+    width: 105px;
+    height: 105px;
+    background: #111 no-repeat bottom center;
+    border-radius: 50%;
+    overflow: hidden;
+    text-align: center;
+    background-image: url("/images/player_cards/dopamineSmall.png");
+    margin-bottom: 15px;
+  }
+
+  .rank {
+      margin: 0 0 10px;
+      font-size: 20px;
+      line-height: 1;
+  }
+  
+  .name {
+    margin: 0 0 10px;
+    font-size: 16px;
+    line-height: 1;
+  }
+
+  .text-center {
+      text-align: center;
+  }
+  
+  .sub {
+    line-height: 1;
+    font-weight: 300;
+    font-size: 12px;
+  }
